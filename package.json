@@ -1,0 +1,24 @@
+{
+    "name": "radiostationsimulator-server",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/radioStationSimulator/server.git"
+    },
+    "contributors": [
+        "CuzImBisonratte, pinguinfabi"
+    ],
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/radioStationSimulator/server/issues"
+    },
+    "homepage": "https://github.com/radioStationSimulator/server#readme",
+    "dependencies": {
+        "express": "^4.18.2"
+    }
+}
